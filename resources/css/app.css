@@ -1,0 +1,5 @@
+.element {
+    width: 600px; height: 400px;
+    position: absolute; left: 0; top: 0;
+    margin: auto;    /* 有了这个就自动居中了 */
+}
